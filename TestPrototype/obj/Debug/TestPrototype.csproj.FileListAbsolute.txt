@@ -1,0 +1,24 @@
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.AssemblyReference.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.Properties.Resources.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.GenerateResource.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.CoreCompileInputs.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\bin\Debug\TestPrototype.exe.config
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\bin\Debug\TestPrototype.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\bin\Debug\TestPrototype.pdb
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.Form1.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.pdb
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\Имитац мод\TestPrototype\TestPrototype\obj\Debug\TestPrototype.Form2.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\bin\Debug\TestPrototype.exe.config
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\bin\Debug\TestPrototype.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\bin\Debug\TestPrototype.pdb
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.AssemblyReference.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.Form1.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.Form2.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.Properties.Resources.resources
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.GenerateResource.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.csproj.CoreCompileInputs.cache
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.exe
+C:\Users\askJa\OneDrive\Рабочий стол\3 курс\ооап\ООАП2\TestPrototype\TestPrototype\obj\Debug\TestPrototype.pdb
